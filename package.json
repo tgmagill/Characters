@@ -1,0 +1,23 @@
+{
+  "name": "characters",
+  "version": "1.0.0",
+  "description": "characters of avengers",
+  "main": "index.js",
+  "scripts": {
+    "test": "(https://github/com/tgmagill/characters.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgmagill/Characters.git"
+  },
+  "author": "Trent Magill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgmagill/Characters/issues"
+  },
+  "homepage": "https://github.com/tgmagill/Characters#readme",
+  "dependencies": {
+    "express": "4.16.4",
+    "path": "0.12.7"
+  }
+}
